@@ -43,8 +43,8 @@ public class Employee {
                 "\t\tFirstName: "+this.getFirstName() +"\t\tLastName:"+this.getLastName();
     }
 
+    //Main method
     public static void main(String[] args) {
-
         Employee e1 = new Employee("1", "John", "Doe");
         Employee e2 = new Employee("2D","Hilary","Hilary");
 
